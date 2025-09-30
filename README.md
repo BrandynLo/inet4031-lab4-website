@@ -2,6 +2,8 @@
 
 ## Instructions, files, code for Lab 6.
 
+The purpose of this repository is to understand how websites are formatted within Javscript and HTTP, and learn how to SSH into servers. 
+
 What if you aren't nearby the computer you need to work on?
 
 Up until this point, our Lab activities have been accomplished by doing them on our laptops.
